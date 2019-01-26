@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="order_summary_name">Nombre: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="app_name">Custom Cocoa</string>
+    <string name="name">Nombre</string>
+    <string name="toppings">Coberturas</string>
+    <string name="thank_you">Gracias por su orden</string>
+    <string name="Custom_Cocoa_order_for">Orden de Custom Cocoa para</string>
+    <string name="quant">Cantidad:</string>
+    <string name="wants_whipped_cream">Con Crema Batida</string>
+    <string name="wants_chocolate">Con Chocolate:</string>
+    <string name="wants_cinnamon">"Con Canela: "</string>
+    <string name="wants_sprinkles">Con Chispas de Colores:</string>
+    <string name="total">Total:</string>
+    <string name="quantity">Cantidad</string>
+    <string name="order">Orden</string>
+    <string name="whipped_cream">Con Crema Batida $1</string>
+    <string name="chocolate">Con Chocolate $2</string>
+    <string name="cinnamon">Con Canela $1</string>
+    <string name="sprinkles">Con Chispas de Colores $1</string>
+    <string name="more_than_100">No puede pedir más de 100 tazas de chocolate caliente</string>
+    <string name="less_than_1">No puede pedir menos de una taza de chocolate caliente.</string>
+    <string name="order_summary">RESUMEN DEL PEDIDO</string>
+</resources>

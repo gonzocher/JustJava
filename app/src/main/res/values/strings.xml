@@ -1,0 +1,41 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">Custom Cocoa</string>
+
+    <!-- Header text for the list of toppings, [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- Thank you message for the order summary [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you for your order</string>
+
+    <!-- Name for the order summary.  It will be shown in the format
+    of "Name: Amy" where Amy is the user's name. [CHAR LIMIT=NONE] -->
+    <string name="order_summary">ORDER SUMMARY</string>
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="Custom_Cocoa_order_for">Custom Cocoa order for</string>
+    <string name="quant">Quantity:</string>
+    <string name="wants_whipped_cream">Wants Whipped Cream: </string>
+    <string name="wants_chocolate">Wants Chocolate: </string>
+    <string name="wants_cinnamon">Wants Cinnamon: </string>
+    <string name="wants_sprinkles">Wants Sprinkles: </string>
+    <string name="total">Total: $</string>
+
+    <!-- labels -->
+    <string name="name">Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+
+    <!-- Checkboxes -->
+    <string name="whipped_cream">Whipped Cream $1</string>
+    <string name="chocolate">Chocolate $2</string>
+    <string name="cinnamon">Cinnamon $1</string>
+    <string name="sprinkles">Sprinkles $1</string>
+
+    <!-- Toasts when order more than 100 or less than 1 -->
+    <string name="more_than_100">You cannot order more than 100 cups of cocoa.</string>
+    <string name="less_than_1">You cannot order less than one cup of cocoa.</string>
+
+
+
+
+
+</resources>
